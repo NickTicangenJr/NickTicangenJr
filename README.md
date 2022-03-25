@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NickTicangenJr
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web and Mobile development
 - 🌱 I’m currently learning Vue.js and Flutter
 
 <!---
